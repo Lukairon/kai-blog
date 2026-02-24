@@ -156,7 +156,6 @@ rolling_std_30_days
 ### Text Data
 
 Typical pipeline:
-
 1. Tokenisation
 2. Stop-word removal
 3. TF-IDF vectorisation
@@ -171,7 +170,6 @@ Even with large language models, preprocessing still matters.
 Missing data is not just an inconvenience — it can contain signal.
 
 Common strategies:
-
 * Mean/median imputation
 * Constant value (e.g., 0 or -1)
 * Predictive imputation
@@ -196,13 +194,11 @@ A critical mistake in feature engineering is introducing leakage.
 Data leakage occurs when information from the future or test set influences training.
 
 Example of leakage:
-
 * Using full-dataset mean instead of training-set mean
 * Creating rolling features that look ahead
 * Encoding categories using global target statistics
 
 Always:
-
 * Split data first
 * Engineer features inside training folds
 * Validate carefully
@@ -212,7 +208,6 @@ Always:
 ## Practical Workflow
 
 A common student-friendly workflow:
-
 1. Explore distributions
 2. Identify skewness
 3. Check correlations
