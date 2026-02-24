@@ -3,7 +3,7 @@ layout: blog
 title: "Feature Engineering: The Hidden Lever of Model Performance"
 description: Graphs are amazing, so why not talk about them?
 pubDate: 2026-02-25T00:02:00.000+11:00
-updatedDate: 2026-02-24T23:59:00.000+11:00
+updatedDate: 2026-02-25T00:13:00.000+11:00
 heroImage: ../../assets/images/screenshot-2026-02-07-161421.png
 ---
 When students first learn machine learning, the focus is usually on **models** — linear regression, decision trees, neural networks, boosting methods.
