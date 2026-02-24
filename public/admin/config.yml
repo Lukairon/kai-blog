@@ -14,7 +14,7 @@ collections:
     fields: # The fields for each document, usually in frontmatter
       - { label: "Layout", name: "layout", widget: "hidden", default: "../../layouts/BlogPost.astro" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Title", name: "description", widget: "string" }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
