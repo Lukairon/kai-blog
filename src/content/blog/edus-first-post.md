@@ -4,7 +4,7 @@ title: Edu's first post??
 pubDate: 2026-02-24T22:40:00.000+11:00
 updatedDate: 2026-02-24T22:40:00.000+11:00
 description: "desc"
-heroImage: src/assets/images/screenshot-2026-02-07-163027.png
+heroImage: ../../assets/images/screenshot-2026-02-07-163027.png
 ---
 # Data Visualisation
 
@@ -34,7 +34,7 @@ Line graphs are used to show the trends and patterns in time series data...At ve
 
 Google uses line graphs to determine trending categories...At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
 
-![Bar chart](src/assets/images/screenshot-2026-02-07-163037.png "Bar chart")
+![Bar chart](../../assets/images/screenshot-2026-02-07-163037.png "Bar chart")
 
 sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id
 
@@ -80,7 +80,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi
 
-![Demonstration of good vs bad colour](src/assets/images/screenshot-2026-02-07-163055.png)
+![Demonstration of good vs bad colour](../../assets/images/screenshot-2026-02-07-163055.png)
 accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
 
 - accusamus et iusto odio dignissimos ducimus
