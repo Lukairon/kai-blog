@@ -1,9 +1,8 @@
 ---
-title: First post TESTING??
+title: First post
 description: Lorem ipsum dolor sit amet
 pubDate: Jul 08 2022
 heroImage: ../../assets/blog-placeholder-3.jpg
-updatedDate: 2026-02-24T22:49:00.000+11:00
 thumbnail: src/assets/images/screenshot-2026-02-07-161421.png
 ---
 
