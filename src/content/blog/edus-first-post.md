@@ -1,9 +1,10 @@
 ---
 layout: blog
 title: Edu's first post??
-date: 2026-02-24T22:40:00.000+11:00
-thumbnail: src/assets/images/screenshot-2026-02-07-163027.png
-rating: 5
+pubDate: 2026-02-24T22:40:00.000+11:00
+updatedDate: 2026-02-24T22:40:00.000+11:00
+description: "desc"
+heroImage: src/assets/images/screenshot-2026-02-07-163027.png
 ---
 # Data Visualisation
 
